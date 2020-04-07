@@ -1,1 +1,1 @@
-my_board = "board"
+board = "board"
